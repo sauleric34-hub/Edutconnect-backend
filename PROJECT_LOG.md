@@ -10,3 +10,4 @@
 - Task 10 completed by LIONEL
 - Task 11 completed by LIONEL
 - Task 12 completed by LIONEL
+- Task 1 completed by Michou

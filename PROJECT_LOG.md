@@ -12,3 +12,4 @@
 - Task 12 completed by LIONEL
 - Task 1 completed by Michou
 - Task 2 completed by Michou
+- Task 3 completed by Michou

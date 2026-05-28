@@ -15,3 +15,4 @@
 - Task 3 completed by Michou
 - Task 4 completed by Michou
 - Task 5 completed by Michou
+- Task 6 completed by Michou

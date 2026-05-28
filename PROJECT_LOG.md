@@ -16,3 +16,4 @@
 - Task 4 completed by Michou
 - Task 5 completed by Michou
 - Task 6 completed by Michou
+- Task 7 completed by Michou

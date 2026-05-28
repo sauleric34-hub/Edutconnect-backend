@@ -32,3 +32,4 @@
 - Task 5 completed by Tristan EKWE
 - Task 6 completed by Tristan EKWE
 - Task 7 completed by Tristan EKWE
+- Task 8 completed by Tristan EKWE

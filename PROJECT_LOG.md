@@ -38,3 +38,4 @@
 - Task 11 completed by Tristan EKWE
 - Task 1 completed by Uwayezu ines
 - Task 2 completed by Uwayezu ines
+- Task 3 completed by Uwayezu ines

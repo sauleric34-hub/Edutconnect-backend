@@ -3,3 +3,4 @@
 - Task 3 completed by LIONEL
 - Task 4 completed by LIONEL
 - Task 5 completed by LIONEL
+- Task 6 completed by LIONEL

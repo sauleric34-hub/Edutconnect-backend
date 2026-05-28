@@ -59,3 +59,4 @@ Pour faciliter le développement du MVP en local, Spring Security est actuelleme
 
 ---
 *Projet réalisé pour EduConnect Cameroun (2026).*
+<!-- API structured by Tristan -->

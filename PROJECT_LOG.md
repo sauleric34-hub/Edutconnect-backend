@@ -27,3 +27,4 @@
 - Task 15 completed by Michou
 - Task 1 completed by Tristan EKWE
 - Task 2 completed by Tristan EKWE
+- Task 3 completed by Tristan EKWE

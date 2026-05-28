@@ -34,3 +34,4 @@
 - Task 7 completed by Tristan EKWE
 - Task 8 completed by Tristan EKWE
 - Task 9 completed by Tristan EKWE
+- Task 10 completed by Tristan EKWE
